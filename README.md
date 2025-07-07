@@ -8,7 +8,7 @@ or use it. It helps me a lot.
 <h1 align="center">Hi, I'm Dharshini 👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=Hey+👋,+I'm+Dharsh;Python+Developer+%7C+Test+Automation+Engineer;Building+Intelligent+Automation+Solutions;AI+Frameworks+%7C+Flask+%7C+Embedded+Systems;🎯+Seeking+Opportunities+in+Toronto,+Canada;Let's+Build+Something+Amazing+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=Hey+👋,+I'm+Dharshini;Python+Developer+%7C+Test+Automation+Engineer;Building+Intelligent+Automation+Solutions;AI+Frameworks+%7C+Flask+%7C+Embedded+Systems;🎯+Seeking+Opportunities+in+Toronto,+Canada;Let's+Build+Something+Amazing+Together!">
 </p>
 
 <a href="https://github.com/Dharsh076"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -40,6 +40,8 @@ I specialize in creating **Python-based automation solutions** that reduce testi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 **🤖 AI & Automation:**  
+![UiPath](https://img.shields.io/badge/UiPath-F86001?style=for-the-badge&logo=uipath&logoColor=white)  
+![AccelQ](https://img.shields.io/badge/AccelQ-1B75BC?style=for-the-badge&logo=accelq&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)  
@@ -106,8 +108,7 @@ I specialize in creating **Python-based automation solutions** that reduce testi
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dharsh076&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharsh076&theme=radical"/>
-</p>
+  </p>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh076&layout=compact&theme=radical"/>
