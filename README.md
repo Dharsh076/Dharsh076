@@ -134,13 +134,20 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
   <a href="https://github.com/Dharsh076">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://medium.com/@dharshinivasudevan99">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://about.me/dharshinivasudevan">
+    <img src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="About.me"/>
+  </a>
 </p>
 
 ---
 
 ### 💬 Want to Collaborate or Hire Me?
 
-Feel free to [connect on LinkedIn](https://www.linkedin.com/in/dharshiniv/) or [drop an email](mailto:dharshinivasudevan99@gmail.com). Let’s build something awesome together!
+Feel free to [connect on LinkedIn](https://www.linkedin.com/in/dharshiniv/), [read my Medium articles](https://medium.com/@dharshinivasudevan99), or [visit my About.me page](https://about.me/dharshinivasudevan). Let’s build something awesome together!
+
 
 <p align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
